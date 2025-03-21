@@ -45,7 +45,7 @@ Data Source – Superstore dataset (or your provided dataset).
 
 📈 How to Access the Dashboards
 1. Tableau Public Link:
-   i.  Project-01: [https://shorturl.at/P4zFA]
+   i.  Project-01: [https://shorturl.at/VCZc1]
    ii. Project-02: [https://shorturl.at/CXeIS]
 
 3. Download the .twbx fike from the repository.
